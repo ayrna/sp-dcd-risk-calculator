@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sp-dcd-risk-calculator/static/css/main.073c9b0a.css",
+    "main.js": "/sp-dcd-risk-calculator/static/js/main.1a5c3b8c.js",
+    "static/js/787.5be0ce0e.chunk.js": "/sp-dcd-risk-calculator/static/js/787.5be0ce0e.chunk.js",
+    "static/media/logo.svg": "/sp-dcd-risk-calculator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sp-dcd-risk-calculator/index.html",
+    "main.073c9b0a.css.map": "/sp-dcd-risk-calculator/static/css/main.073c9b0a.css.map",
+    "main.1a5c3b8c.js.map": "/sp-dcd-risk-calculator/static/js/main.1a5c3b8c.js.map",
+    "787.5be0ce0e.chunk.js.map": "/sp-dcd-risk-calculator/static/js/787.5be0ce0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1a5c3b8c.js"
+  ]
+}
